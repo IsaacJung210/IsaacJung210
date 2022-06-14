@@ -47,6 +47,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&PyTorch=white"/>
   <br/>
    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&PyTorch=white"/>
+   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&PyTorch=white"/>
    <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&PyTorch=white"/>
    
 
