@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <br/><br/>
  
  <!--환경-->
- <h3>🖥Env </h3>
+ <h3>🖥 Env </h3>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
  <br/><br/>
  
  <!--기술스택-->
-   <h3>:four_leaf_clover:Skill </h3>
+   <h3>:four_leaf_clover: Skill </h3>
   <br/>
    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
