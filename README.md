@@ -19,32 +19,37 @@ Here are some ideas to get you started:
 <br/><br/>
  <!--기술스택-->
    <h3>:four_leaf_clover:Skill </h3>
-  <!--프론트-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-   <br/>
-  <!--백-->
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
+ <br/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <br/>
-  <!--언어 및 툴 -->
-   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
+  <br/>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+  <br/>
+   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&PyTorch=white"/>
+   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&PyTorch=white"/>
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&PyTorch=white"/>
+  <br/>
+   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&PyTorch=white"/>
+   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&PyTorch=white"/>
 <br/><br/>
 
- <!--공부중 -->
- <h3>:pencil2: Studying </h3>
- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-  <!--백-->
+ <!--Tools -->
+ <h3>:pencil2: Tools </h3>
+   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&PyTorch=white"/>
+   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&PyTorch=white"/>
+   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&PyTorch=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
- <!--언어 및 툴 --> <br/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&PyTorch=white"/>
+   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&PyTorch=white"/>
+   
+
  <br/>
  <br/>
   
