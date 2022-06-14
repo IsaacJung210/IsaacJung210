@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br/><br/>
  
  <!--환경-->
- <h3>:🖥:Env </h3>
+ <h3>🖥Env </h3>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
  <br/><br/>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
  <!--Tools -->
- <h3>:pencil2: Tools </h3>
+ <h3>🛠 Tools </h3>
    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&PyTorch=white"/>
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&PyTorch=white"/>
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&PyTorch=white"/>
