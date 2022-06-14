@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJung210&layout=compact)](https://github.com/IsaacJung210/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJung210 &layout=compact&theme=dark&langs_count=8)](https://github.com/IsaacJung210 /github-readme-stats)
 
 <br/><br/><br/>
   
