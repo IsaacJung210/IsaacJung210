@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 <div align=center>
 <!--소개-->
 <h3>:raised_hands: Introduction </h3>
-안녕하세요! 공부중인 신입개발자입니다. :relaxed:
+안녕하세요! 공부중인 신입개발자입니다. :relaxed:<br/>
+📫 Email : dltkr0210@naver.com 
 <br/><br/>
  
  <!--환경-->
